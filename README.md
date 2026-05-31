@@ -74,17 +74,6 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Ayesh's GitHub Stats](https://github-readme-stats-git-master-ayeshsharukas-projects.vercel.app/api?username=AyeshSharuka&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshSharuka&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/ayesh-sharuka-34065b204/)
