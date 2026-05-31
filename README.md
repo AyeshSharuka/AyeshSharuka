@@ -4,7 +4,7 @@
 
 **AI/ML Developer · MSc Artificial Intelligence @ Dublin Business School**
 
-*Building intelligent systems that solve real-world problems — from LLMs to cloud-deployed ML pipelines.*
+*Building intelligent systems that solve real-world problems - from LLMs to cloud-deployed ML pipelines.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesh%20Sharuka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesh-sharuka-34065b204/)
 [![GitHub](https://img.shields.io/badge/GitHub-AyeshSharuka-181717?style=flat&logo=github&logoColor=white)](https://github.com/AyeshSharuka)
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm an AI/ML Developer with a BSc in Industrial Statistics from the University of Colombo and currently pursuing an **MSc in Artificial Intelligence at Dublin Business School, Ireland**. I specialise in building end-to-end AI solutions — from data pipelines and model training to cloud deployment and API integration.
+I'm an AI/ML Developer with a BSc in Industrial Statistics from the University of Colombo and currently pursuing an **MSc in Artificial Intelligence at Dublin Business School, Ireland**. I specialise in building end-to-end AI solutions - from data pipelines and model training to cloud deployment and API integration.
 
 Previously, I worked as an **AI/ML Developer at EMUQ TECH Inc.** (remote, US) and as a **Trainee in Group Analytics & AI at Dialog Axiata PLC** (Sri Lanka's largest telco), where I developed a Natural Language to SQL system using Google Gemini and a customer churn prediction model on AWS SageMaker.
 
@@ -28,7 +28,7 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🔍 [NL-to-SQL Query Executor](./nl-to-sql-llm) | Converts natural language queries into SQL using Google Gemini — built for Dialog Axiata's Analytics & AI Group | Gemini, Flask, Python, SQLite |
+| 🔍 [NL-to-SQL Query Executor](./nl-to-sql-llm) | Converts natural language queries into SQL using Google Gemini - built for Dialog Axiata's Analytics & AI Group | Gemini, Flask, Python, SQLite |
 | 🎵 [AI Audio Mastering Tool](./ai-audio-mastering) | Deep learning model that automates professional audio enhancement | AWS SageMaker, FastAPI, Python, S3 |
 | 📢 [SEO Content Generation Platform](./seo-content-platform) | Generates SEO-optimised content and auto-publishes across 6 social platforms in one click | Amazon Bedrock (Claude 3.5), FastAPI, OAuth 2.0 |
 | 📰 [NLP News Articles Analysis](./nlp-news-analysis) | Text classification and sentiment analysis on news datasets | Python, NLP, Scikit-learn |
@@ -58,18 +58,18 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 ## Education
 
-**MSc Artificial Intelligence** — Dublin Business School, Ireland *(Sep 2025 – Sep 2026)*
+**MSc Artificial Intelligence** - Dublin Business School, Ireland *(Sep 2025 – Sep 2026)*
 
-**BSc Industrial Statistics** — University of Colombo, Sri Lanka *(Aug 2019 – May 2023)*
+**BSc Industrial Statistics** - University of Colombo, Sri Lanka *(Aug 2019 – May 2023)*
 
 ---
 
 ## Experience
 
-**AI/ML Developer** — EMUQ TECH Inc. *(Jul 2024 – Sep 2025 · Remote, US)*
+**AI/ML Developer** - EMUQ TECH Inc. *(Jul 2024 – Sep 2025 · Remote, US)*
 > Developed Python modules, designed APIs, trained and deployed ML models. Led AI-driven audio mastering tool and SEO content generation platform.
 
-**Trainee, Group Analytics & AI** — Dialog Axiata PLC *(Feb 2024 – Sep 2024 · Colombo, LK)*
+**Trainee, Group Analytics & AI** - Dialog Axiata PLC *(Feb 2024 – Sep 2024 · Colombo, LK)*
 > Built NL-to-SQL system with Gemini, developed ANN churn prediction model on SageMaker.
 
 ---
