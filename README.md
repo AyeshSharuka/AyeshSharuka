@@ -58,9 +58,9 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 ## Education
 
-**MSc Artificial Intelligence** - Dublin Business School, Ireland *(Sep 2025 – Sep 2026)*
+**MSc Artificial Intelligence** - Dublin Business School, Ireland *(Sep 2025 - Sep 2026)*
 
-**BSc Industrial Statistics** - University of Colombo, Sri Lanka *(Aug 2019 – May 2023)*
+**BSc Industrial Statistics** - University of Colombo, Sri Lanka *(Aug 2019 - May 2023)*
 
 ---
 
