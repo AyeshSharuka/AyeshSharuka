@@ -24,19 +24,6 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔍 [NL-to-SQL Query Executor](./nl-to-sql-llm) | Converts natural language queries into SQL using Google Gemini - built for Dialog Axiata's Analytics & AI Group | Gemini, Flask, Python, SQLite |
-| 🎵 [AI Audio Mastering Tool](./ai-audio-mastering) | Deep learning model that automates professional audio enhancement | AWS SageMaker, FastAPI, Python, S3 |
-| 📢 [SEO Content Generation Platform](./seo-content-platform) | Generates SEO-optimised content and auto-publishes across 6 social platforms in one click | Amazon Bedrock (Claude 3.5), FastAPI, OAuth 2.0 |
-| 📰 [NLP News Articles Analysis](./nlp-news-analysis) | Text classification and sentiment analysis on news datasets | Python, NLP, Scikit-learn |
-| 🃏 [Reinforcement Learning — BlackJack](./rl-blackjack) | RL agent trained to play BlackJack using Q-learning | Python, OpenAI Gym |
-| 📉 [Customer Churn Prediction](./churn-prediction) | ANN-based churn prediction model deployed on AWS SageMaker | AWS SageMaker, Python, ANN |
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -56,14 +43,6 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 ---
 
-## Education
-
-**MSc Artificial Intelligence** - Dublin Business School, Ireland *(Sep 2025 - Sep 2026)*
-
-**BSc Industrial Statistics** - University of Colombo, Sri Lanka *(Aug 2019 - May 2023)*
-
----
-
 ## Experience
 
 **AI/ML Developer** - EMUQ TECH Inc. *(Jul 2024 – Sep 2025 · Remote, US)*
@@ -71,6 +50,14 @@ I'm passionate about **Generative AI, LLMs, NLP, and scalable cloud architecture
 
 **Trainee, Group Analytics & AI** - Dialog Axiata PLC *(Feb 2024 – Sep 2024 · Colombo, LK)*
 > Built NL-to-SQL system with Gemini, developed ANN churn prediction model on SageMaker.
+
+---
+
+## Education
+
+**MSc Artificial Intelligence** - Dublin Business School, Ireland *(Sep 2025 - Sep 2026)*
+
+**BSc Industrial Statistics** - University of Colombo, Sri Lanka *(Aug 2019 - May 2023)*
 
 ---
 
